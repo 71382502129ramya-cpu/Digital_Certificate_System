@@ -1,0 +1,6 @@
+{
+  "name": "Digital Certificate Verification System",
+  "description": "A secure digital certificate issuance, management, and SHA-256 tamper-proof verification platform with QR authentication and role-based dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
