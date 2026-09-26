@@ -1,4 +1,26 @@
-🔐 CERT-VAULT: Digital Certificate Verification System
+# Digital Certificate Verification System
+
+A secure digital certificate issuance and verification system with QR-based authentication.
+
+## 🚀 Live Demo
+
+### Frontend
+https://digital-certificate-system-1pyu.onrender.com
+
+### Backend API
+https://digital-certificate-jw1h.onrender.com
+
+## 🛠️ Technologies Used
+
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- Supabase
+- QR Code
+- SHA-256 Hashing
+- Render
+- 🔐 CERT-VAULT: Digital Certificate Verification System
 An enterprise-grade, cryptographic web platform designed for digital academic credential issuance, real-time SHA-256 tamper-proof verification, QR code authentication, and AI-powered credential forensics.
 Developed for educational institutions, university registrars, students, and employers to ensure zero-fraud credential validation.
 🚀 Key Features
